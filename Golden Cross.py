@@ -69,5 +69,3 @@ total_return_strategy = data['cumulative_strategy'].iloc[-1] - 1
 print(f"--- {ticker} Performance ---")
 print(f"Buy and Hold Total Return: {total_return_market:.2%}")
 print(f"Golden Cross Total Return: {total_return_strategy:.2%}")
-
-# Hello
